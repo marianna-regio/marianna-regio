@@ -6,7 +6,7 @@ I live in 🏝️ Florianopolis/SC - Brazil
 
  You can contact me at 📬 mariannaregio@gmail.com
 
-Or find me on <a href="https://www.linkedin.com/in/marianna-r%C3%A9gio-97137925b/" target="_blank">
+Or find me on <a href="https://www.linkedin.com/in/marianna-r%C3%A9gio-97137925b/" target="blank">
  <img align="center" src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&labelColor=0072b1&logo=linkedin&logoColor=ffffff" alt="Linkedin"/>
 </a>
 
