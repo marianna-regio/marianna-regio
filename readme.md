@@ -1,10 +1,10 @@
 # Hello, there! 👾 
 
-I'm Marianna. I'm a student of Analysis and Systems Development. 
+I am Marianna, I am studying System Analysis and Development.
 
-My focus is on web development, and I'm enhancing my knowledge in back-end to become a full-stack developer.
+I am focused on web development, and I am enhancing my knowledge in back-end to become a full-stack developer.
 
- I live in Florianopolis/SC - Brazil 🏝️
+I live in Florianopolis/SC - Brazil 🏝️
 
 You can contact me at mariannaregio@gmail.com 📬
 
