@@ -30,7 +30,6 @@ Or find me on <a href="https://www.linkedin.com/in/marianna-r%C3%A9gio-97137925b
 ![GITHUB](https://badges.aleen42.com/src/github.svg)
 ![VISUALSTUDIOCODE](https://img.shields.io/badge/-Visual%20Studio%20Code-232323?style=flat&labelColor=000000&logo=visual-studio-code&logoColor=007ACC)
  
-![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
 
 
 
