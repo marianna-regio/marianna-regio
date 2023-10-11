@@ -29,8 +29,8 @@ Or find me on <a href="https://www.linkedin.com/in/marianna-r%C3%A9gio-97137925b
 ![Git](https://img.shields.io/badge/-Git-232323?style=flat&labelColor=F05032&logo=git&logoColor=ffffff)
 ![GITHUB](https://badges.aleen42.com/src/github.svg)
 ![VISUALSTUDIOCODE](https://img.shields.io/badge/-Visual%20Studio%20Code-232323?style=flat&labelColor=000000&logo=visual-studio-code&logoColor=007ACC)
- 
 
+ <hr> 
 
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marianna-regio&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
