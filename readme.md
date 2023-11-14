@@ -33,5 +33,5 @@ Or find me on <a href="https://www.linkedin.com/in/marianna-r%C3%A9gio-97137925b
  <hr> 
 
  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marianna-regio&layout=compact&bg_color=000&border_color=9F81F7&title_color=9F81F7&text_color=FFF) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianna-regio&theme=transparent&bg_color=000&border_color=9F81F7&show_icons=true&icon_color=30A3DC&title_color=9F81F7&text_color=FFF&hide_title=true&hide=stars) 
+
 
